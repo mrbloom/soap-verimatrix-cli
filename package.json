@@ -1,0 +1,20 @@
+{
+  "name": "soap-verimatrix-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "refresh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node refresh.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-soap-request": "^3.2.0",
+    "fast-xml-parser": "^3.16.0",
+    "he": "^1.2.0",
+    "mississippi": "^4.0.0",
+    "yargs": "^15.3.1"
+  }
+}
